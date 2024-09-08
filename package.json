@@ -1,0 +1,14 @@
+{
+    "name": "simple-webgl-app",
+    "version": "1.0.0",
+    "description": "A simple WebGL application in HTML and JavaScript",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server"
+    },
+    "author": "Revy Pramana",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.0"
+    }
+}
