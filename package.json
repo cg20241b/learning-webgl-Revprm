@@ -1,14 +1,14 @@
 {
-    "name": "simple-webgl-app",
+    "name": "webgl-graphics-app",
     "version": "1.0.0",
-    "description": "A simple WebGL application in HTML and JavaScript",
+    "description": "A web-based computer graphics app using WebGL",
     "main": "index.html",
     "scripts": {
-        "start": "live-server"
+      "start": "http-server -c-1"
     },
-    "author": "Revy Pramana",
-    "license": "MIT",
-    "devDependencies": {
-        "live-server": "^1.2.0"
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "http-server": "^14.1.1"
     }
-}
+  }
